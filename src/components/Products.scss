@@ -1,0 +1,10 @@
+.container-products{
+    margin: 50px 0;
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    place-items: center;
+    img{
+        width: 300px;
+    }
+}
