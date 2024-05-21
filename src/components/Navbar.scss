@@ -1,0 +1,35 @@
+.nav-bar-container{
+    display: flex;
+    justify-content: space-between;
+    padding: 30px 70px;
+    align-items: center;
+    .logo{
+        display: flex;
+        align-items: center;
+        gap: 20px;
+        svg{
+            scale: 2;
+        }
+    }
+    .search{
+        display: flex;
+        align-items: center;
+        input{
+            border-radius: 10px 0 0 10px;
+            height: 38px;
+            width: 200px;
+            font-size: 20px;
+            font-weight: bolder;
+            border: none;
+            background-color: #fff;
+            color: #000000b4;
+        }
+        svg,path{
+            padding: 5.5px;
+            border-radius: 0 10px 10px 0;
+            height: 30px;
+            border: none;
+            background-color: #3c00ffb4;
+        }
+    }
+}

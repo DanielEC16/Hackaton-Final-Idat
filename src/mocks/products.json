@@ -1,0 +1,240 @@
+{
+    "products": [
+      {
+        "title": "iPhone 14 PRO MAX",
+        "price": "#890000",
+        "id": "641ea475de3f275c3c87577b",
+        "category": "laptops"
+      },
+      {
+        "title": "iPhone 14 PRO MAX",
+        "price": "#890000",
+        "id": "641ea8d36b51c5767587a65d",
+        "category": "laptops"
+      },
+      {
+        "title": "iPhone",
+        "price": "#970000",
+        "image": "https://res.cloudinary.com/duxhup85p/image/upload/v1679785786/phmht5w5nkzovdhnaiwo.jpg",
+        "id": "641f7f3a83be64b5e05de6f4",
+        "category": "Phones and Accessories"
+      },
+      {
+        "title": "iPhone",
+        "price": "#970000",
+        "image": "https://res.cloudinary.com/duxhup85p/image/upload/v1679785873/ojytg9ysogiblxrjzrt0.jpg",
+        "id": "641f7f91a88fda22845cbdf4",
+        "category": "Phones and Accessories"
+      },
+      {
+        "title": "SAMSUNG A25 5G",
+        "price": "#150000",
+        "image": "https://res.cloudinary.com/duxhup85p/image/upload/v1679803711/kkpuafvgjxnampcxo8dw.jpg",
+        "id": "641fc53fa34d3fb117fba129",
+        "category": "Phones and Accessories"
+      },
+      {
+        "title": "SAMSUNG A25 5G",
+        "price": "#150000",
+        "image": "https://res.cloudinary.com/duxhup85p/image/upload/v1679803732/na6bkdqeisgbt7r2dtph.jpg",
+        "id": "641fc555a34d3fb117fba12b",
+        "category": "Phones and Accessories"
+      },
+      {
+        "title": "SAMSUNG S22 ULTRA",
+        "price": "#925000",
+        "image": "https://res.cloudinary.com/duxhup85p/image/upload/v1679804000/qj1bgww9h9drci02k8rb.jpg",
+        "id": "641fc660748cf0a96731aad5",
+        "category": "Phones and Accessories"
+      },
+      {
+        "title": "SAMSUNG GALAXY FOLD 3",
+        "price": "#470000",
+        "image": "https://res.cloudinary.com/duxhup85p/image/upload/v1679804098/objvfq3hjbtyyo3vhfxn.jpg",
+        "id": "641fc6c2748cf0a96731aad7",
+        "category": "Phones and Accessories"
+      },
+      {
+        "title": "SAMSUNG GALAXY a54",
+        "price": "#181000",
+        "image": "https://res.cloudinary.com/duxhup85p/image/upload/v1679804238/wpekopkqsl89tvohjpnz.jpg",
+        "id": "641fc74fdeea08715db6561d",
+        "category": "Phones and Accessories"
+      },
+      {
+        "title": "SAMSUNG GALAXY S20",
+        "price": "#275000",
+        "image": "https://res.cloudinary.com/duxhup85p/image/upload/v1679804377/kwkjsbzknoskaimrva0t.jpg",
+        "id": "641fc7d96eeae55332d053b1",
+        "category": "Phones and Accessories"
+      },
+      {
+        "title": "SAMSUNG GALAXY ZFLIP",
+        "price": "#620000",
+        "image": "https://res.cloudinary.com/duxhup85p/image/upload/v1679804553/rabwoeucm74skr6dw7nu.jpg",
+        "id": "641fc88ae6e68f00b3356754",
+        "category": "Phones and Accessories"
+      },
+      {
+        "title": "SAMSUNG GALAXY M14",
+        "price": "#65000",
+        "image": "https://res.cloudinary.com/duxhup85p/image/upload/v1679804612/ghe9iqowcbb498u6zmfn.jpg",
+        "id": "641fc8c4e6e68f00b3356756",
+        "category": "Phones and Accessories"
+      },
+      {
+        "title": "TECNO PHANTOM VFOLD",
+        "price": "#440000",
+        "image": "https://res.cloudinary.com/duxhup85p/image/upload/v1679804675/tpicmjio16xbfuy8zib8.jpg",
+        "id": "641fc903e6e68f00b3356758",
+        "category": "Phones and Accessories"
+      },
+      {
+        "title": "TECNO SPARK 10 PRO",
+        "price": "#104500",
+        "image": "https://res.cloudinary.com/duxhup85p/image/upload/v1679804735/eq5tkbczv19emmhsrrrk.jpg",
+        "id": "641fc93fe6e68f00b335675a",
+        "category": "Phones and Accessories"
+      },
+      {
+        "title": "TECNO SPARK GO",
+        "price": "#55900",
+        "image": "https://res.cloudinary.com/duxhup85p/image/upload/v1679804803/cfjrghsxnitvndcu3atx.jpg",
+        "id": "641fc983e6e68f00b335675c",
+        "category": "Phones and Accessories"
+      },
+      {
+        "title": "iPhone 7",
+        "price": "#92880",
+        "image": "https://res.cloudinary.com/duxhup85p/image/upload/v1679806137/xzntlc5lpqkf0zf3k2jq.jpg",
+        "id": "641fcebae6e68f00b335675f",
+        "category": "Phones and Accessories"
+      },
+      {
+        "title": "iPhone 14 pro max",
+        "price": "#850000",
+        "image": "https://res.cloudinary.com/duxhup85p/image/upload/v1679806252/ngmdqwtjprkjaknefd67.jpg",
+        "id": "641fcf2de6e68f00b3356761",
+        "category": "Phones and Accessories"
+      },
+      {
+        "title": "ANDROID SMART WATCH",
+        "price": "#85000",
+        "image": "https://res.cloudinary.com/duxhup85p/image/upload/v1679806647/scgiugroavodc5nj5dpp.jpg",
+        "id": "641fd0b8e6e68f00b3356765",
+        "category": "Smartwatches"
+      },
+      {
+        "title": "LED DIGITAL WATCH",
+        "price": "#95000",
+        "image": "https://res.cloudinary.com/duxhup85p/image/upload/v1679806707/dl9itidw0edhlm6ifj0b.jpg",
+        "id": "641fd0f4e6e68f00b3356767",
+        "category": "Smartwatches"
+      },
+      {
+        "title": "ORAIMO SMART WATCH",
+        "price": "#75000",
+        "image": "https://res.cloudinary.com/duxhup85p/image/upload/v1679806758/sewuryz4gm30cfwseo5k.jpg",
+        "id": "641fd127e6e68f00b3356769",
+        "category": "Smartwatches"
+      },
+      {
+        "title": "FULL TOUCH SMART WATCH",
+        "price": "#75000",
+        "image": "https://res.cloudinary.com/duxhup85p/image/upload/v1679806838/cwnnk98x74ez0pzzccl3.jpg",
+        "id": "641fd176e6e68f00b335676d",
+        "category": "Smartwatches"
+      },
+      {
+        "title": "X7 SMART WATCH",
+        "price": "#18000",
+        "image": "https://res.cloudinary.com/duxhup85p/image/upload/v1679806901/a7os6yovdytniryya9v3.jpg",
+        "id": "641fd1b5e6e68f00b335676f",
+        "category": "Smartwatches"
+      },
+      {
+        "title": "X8 SMART WATCH",
+        "price": "#20000",
+        "image": "https://res.cloudinary.com/duxhup85p/image/upload/v1679807014/rroabbwfjk3uosfa3qkk.jpg",
+        "id": "641fd226e6e68f00b3356771",
+        "category": "Smartwatches"
+      },
+      {
+        "title": "PHILIPS IRON",
+        "price": "#25000",
+        "image": "https://res.cloudinary.com/duxhup85p/image/upload/v1679807185/qbawdccrdtqtnxk8bipd.jpg",
+        "id": "641fd2d2e6e68f00b3356773",
+        "category": "Home Appliances"
+      },
+      {
+        "title": "MICROWAVE",
+        "price": "#35000",
+        "image": "https://res.cloudinary.com/duxhup85p/image/upload/v1679807325/u2dkblnbonws5cjzpsjf.jpg",
+        "id": "641fd35de6e68f00b3356776",
+        "category": "Home Appliances"
+      },
+      {
+        "title": "BLENDER",
+        "price": "#40000",
+        "image": "https://res.cloudinary.com/duxhup85p/image/upload/v1679807394/tzoc08h4rtvphacpyn0i.jpg",
+        "id": "641fd3a3e6e68f00b3356778",
+        "category": "Home Appliances"
+      },
+      {
+        "title": "WASH MACHINE",
+        "price": "#60000",
+        "image": "https://res.cloudinary.com/duxhup85p/image/upload/v1679807479/xzbc3ha906okj5ife1v7.jpg",
+        "id": "641fd3f7e6e68f00b335677a",
+        "category": "Home Appliances"
+      },
+      {
+        "title": "KENWOOD BLENDER 2L",
+        "price": "#60000",
+        "image": "https://res.cloudinary.com/duxhup85p/image/upload/v1679807534/yvs4wd2ojqir6ticgyeb.jpg",
+        "id": "641fd42ee6e68f00b335677c",
+        "category": "Home Appliances"
+      },
+      {
+        "title": "VACCUM CLEANER",
+        "price": "#53000",
+        "image": "https://res.cloudinary.com/duxhup85p/image/upload/v1679807659/cgh3x3ghwlggoio054mi.jpg",
+        "id": "641fd4ace6e68f00b335677e",
+        "category": "Home Appliances"
+      },
+      {
+        "title": "JUG",
+        "price": "#53000",
+        "image": "https://res.cloudinary.com/duxhup85p/image/upload/v1679807775/t4mvneo9qkdg5dxc8hpu.png",
+        "id": "641fd520e6e68f00b3356780",
+        "category": "Home Appliances"
+      },
+      {
+        "title": "GRILLER",
+        "price": "#80000",
+        "image": "https://res.cloudinary.com/duxhup85p/image/upload/v1679807850/llibr9a2jvukeujojqn0.png",
+        "id": "641fd56ae6e68f00b3356782",
+        "category": "Home Appliances"
+      },
+      {
+        "title": "STANDING FAN",
+        "price": "#10000",
+        "image": "https://res.cloudinary.com/duxhup85p/image/upload/v1679807941/jxgpubz8nbunrch2lbeb.jpg",
+        "id": "641fd5c6e6e68f00b3356784",
+        "category": "Home Appliances"
+      },
+      {
+        "title": "MACBOOK 16 PRO",
+        "price": "#1000000",
+        "image": "https://res.cloudinary.com/duxhup85p/image/upload/v1679808199/nn2ran3s5ptag5daegb4.jpg",
+        "id": "641fd6c8e6e68f00b3356786",
+        "category": "laptops"
+      },
+      {
+        "title": "SAMSUNG A23 5G",
+        "price": "#150000",
+        "image": "https://res.cloudinary.com/duxhup85p/image/upload/v1680272625/stnateolwvzmns3um6id.jpg",
+        "id": "6426ecf1e0bc408805d46f1a",
+        "category": "Phones and Accessories"
+      }
+    ]
+  }
