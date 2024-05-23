@@ -1,35 +1,92 @@
-.nav-bar-container{
+@import "./colors/colors";
+
+.slider {
+  width: 100%;
+  height: 35px;
+  background-color: $diesel-500;
+  overflow: hidden;
+  display: flex;
+  justify-content: flex-end;
+  padding: 5px 0;
+  .slider-content-track {
+    width: 100%;
     display: flex;
-    justify-content: space-between;
-    padding: 30px 70px;
-    align-items: center;
-    .logo{
-        display: flex;
-        align-items: center;
-        gap: 20px;
-        svg{
-            scale: 2;
-        }
+    gap: 20px;
+    animation: loop 15s linear infinite;
+    .slider-content {
+      margin: 0 auto;
+      display: flex;
+      align-items: center;
+      p {
+        letter-spacing: 5px;
+        font-weight: bold;
+        font-size: 18px;
+      }
     }
-    .search{
-        display: flex;
-        align-items: center;
-        input{
-            border-radius: 10px 0 0 10px;
-            height: 38px;
-            width: 200px;
-            font-size: 20px;
-            font-weight: bolder;
-            border: none;
-            background-color: #fff;
-            color: #000000b4;
-        }
-        svg,path{
-            padding: 5.5px;
-            border-radius: 0 10px 10px 0;
-            height: 30px;
-            border: none;
-            background-color: #3c00ffb4;
-        }
+  }
+}
+.promocion {
+  width: 100%;
+  height: 30px;
+  background: black;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  .text-promocion {
+    font-size: 14px;
+    letter-spacing: 2px;
+    font-weight: bolder;
+  }
+}
+
+.nav-bar-container {
+  display: flex;
+  justify-content: space-between;
+  padding: 30px 200px;
+  align-items: center;
+  .logo {
+    img {
+      width: 200px;
     }
+  }
+  .input-search {
+    display: flex;
+    border-radius: 10px;
+    background-color: $diesel-50;
+    border: 1.5px solid $diesel-400;
+    input {
+      padding: 0 15px;
+      border-radius: 10px;
+      height: 40px;
+      width: 700px;
+      font-size: 15px;
+      letter-spacing: 1px;
+      border: none;
+      background-color: $diesel-50;
+      color: #000;
+      outline: none;
+    }
+    .search-button{
+        background: $diesel-50;
+        border: none;
+        border-radius: 20px;
+        padding: 0 10px;
+        color: black;
+        font-size: 15px;
+        cursor: pointer;
+    }
+  }
+  .cart {
+    color: $diesel-900;
+    font-size: 30px;
+  }
+}
+
+@keyframes loop {
+  from {
+    transform: translateX(100%);
+  }
+  to {
+    transform: translateX(-100%);
+  }
 }

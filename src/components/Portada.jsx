@@ -1,4 +1,4 @@
-import "./Portada.scss";
+
 
 export const Portada = () => {
   return (
