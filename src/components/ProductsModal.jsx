@@ -2,7 +2,7 @@ import { faShoppingCart } from "@fortawesome/free-solid-svg-icons";
 import "./ProductsModal.scss";
 import { Icon } from "./comp_icons/Icon";
 
-export const ProductsModal = ({ producto }) => {
+export const ProductsModal = ({ producto ,onClick}) => {
   return (
     <div className="modal-product_view">
       <div className="modal-imagen_view">
@@ -13,14 +13,12 @@ export const ProductsModal = ({ producto }) => {
         <hr />
         <p className="description-modal">{producto.description}</p>
         <hr />
-        <span className="ingredients">Ingredients : {producto.ingredients.join(' , ')}</span>
-        <hr />
         <div className="price-button">
           <span>
             Precio : S/. {Math.floor(Math.random() * (10 - 5 + 1)) + 5},
             {Math.floor(Math.random() * 9) + 1}0
           </span>
-          <button>
+          <button onClick={onClick}>
             Add to Cart <Icon icon={faShoppingCart}  /> +1
           </button>
         </div>

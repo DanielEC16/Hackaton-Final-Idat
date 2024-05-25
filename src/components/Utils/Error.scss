@@ -1,0 +1,12 @@
+.error-container{
+    text-align: center;
+    position: relative;
+    bottom: 100px;
+    .error-message{
+        color: #ff0000e0;
+        letter-spacing: 1px;
+        font-weight: bolder;
+        text-transform: uppercase;
+        font-size: 25px;
+    }
+}

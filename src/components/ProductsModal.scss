@@ -62,3 +62,41 @@
     }
   }
 }
+
+
+/* Estilos para pantallas pequeñas */
+@media screen and (max-width: 600px) {
+  .modal-{
+    &product_view{
+      scale: 1;
+      grid-template-columns: 1fr;
+      grid-template-rows: 1fr 1fr;
+      img{
+        scale: 1.2;
+        right: 20px;
+      }
+    }
+    
+  }
+}
+
+/* Estilos para pantallas medianas */
+@media screen and (min-width: 601px) and (max-width: 1024px) {
+  .modal-{
+    &product_view{
+      scale: 1;
+      grid-template-columns: 1fr;
+      grid-template-rows: 1fr 1fr;
+      img{
+        scale: 1.2;
+        right: 20px;
+      }
+    }
+    
+  }
+}
+
+/* Estilos para pantallas grandes */
+@media screen and (min-width: 1025px) {
+
+}
